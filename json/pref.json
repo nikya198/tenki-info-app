@@ -11,7 +11,7 @@
     { "prefName": "栃木県", "prefCode": "9", "regionCode": "3", "invalid": false },
     { "prefName": "群馬県", "prefCode": "10", "regionCode": "3", "invalid": false },
     { "prefName": "埼玉県", "prefCode": "11", "regionCode": "3", "invalid": false },
-    { "prefName": "千葉県", "prefCode": "12", "regionCode": "3", "invalid": false },
+    { "prefName": "千葉県", "prefCode": "12", "regionCode": "3", "invalid": true },
     { "prefName": "東京都", "prefCode": "13", "regionCode": "3", "invalid": true },
     { "prefName": "神奈川県", "prefCode": "14", "regionCode": "3", "invalid": false },
     { "prefName": "新潟県", "prefCode": "15", "regionCode": "4", "invalid": true },

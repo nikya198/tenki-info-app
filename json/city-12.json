@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "cityCode": "12100",
+      "cityName": "千葉市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12101",
+      "cityName": "千葉市中央区",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12102",
+      "cityName": "千葉市花見川区",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12103",
+      "cityName": "千葉市稲毛区",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12104",
+      "cityName": "千葉市若葉区",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12105",
+      "cityName": "千葉市緑区",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12106",
+      "cityName": "千葉市美浜区",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12202",
+      "cityName": "銚子市",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12203",
+      "cityName": "市川市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12204",
+      "cityName": "船橋市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12205",
+      "cityName": "館山市",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12206",
+      "cityName": "木更津市",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12207",
+      "cityName": "松戸市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12208",
+      "cityName": "野田市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12210",
+      "cityName": "茂原市",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12211",
+      "cityName": "成田市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12212",
+      "cityName": "佐倉市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12213",
+      "cityName": "東金市",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12215",
+      "cityName": "旭市",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12216",
+      "cityName": "習志野市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12217",
+      "cityName": "柏市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12218",
+      "cityName": "勝浦市",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12219",
+      "cityName": "市原市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12220",
+      "cityName": "流山市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12221",
+      "cityName": "八千代市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12222",
+      "cityName": "我孫子市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12223",
+      "cityName": "鴨川市",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12224",
+      "cityName": "鎌ケ谷市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12225",
+      "cityName": "君津市",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12226",
+      "cityName": "富津市",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12227",
+      "cityName": "浦安市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12228",
+      "cityName": "四街道市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12229",
+      "cityName": "袖ケ浦市",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12230",
+      "cityName": "八街市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12231",
+      "cityName": "印西市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12232",
+      "cityName": "白井市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12233",
+      "cityName": "富里市",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12234",
+      "cityName": "南房総市",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12235",
+      "cityName": "匝瑳市",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12236",
+      "cityName": "香取市",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12237",
+      "cityName": "山武市",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12238",
+      "cityName": "いすみ市",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12239",
+      "cityName": "大網白里市",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12322",
+      "cityName": "酒々井町",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12329",
+      "cityName": "栄町",
+      "districtCode": "4510",
+      "invalid": true
+    },
+    {
+      "cityCode": "12342",
+      "cityName": "神崎町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12347",
+      "cityName": "多古町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12349",
+      "cityName": "東庄町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12403",
+      "cityName": "九十九里町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12409",
+      "cityName": "芝山町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12410",
+      "cityName": "横芝光町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12421",
+      "cityName": "一宮町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12422",
+      "cityName": "睦沢町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12423",
+      "cityName": "長生村",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12424",
+      "cityName": "白子町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12426",
+      "cityName": "長柄町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12427",
+      "cityName": "長南町",
+      "districtCode": "4520",
+      "invalid": true
+    },
+    {
+      "cityCode": "12441",
+      "cityName": "大多喜町",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12443",
+      "cityName": "御宿町",
+      "districtCode": "4530",
+      "invalid": true
+    },
+    {
+      "cityCode": "12463",
+      "cityName": "鋸南町",
+      "districtCode": "4530",
+      "invalid": true
+    }
+  ]
+}
