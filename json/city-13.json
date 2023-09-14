@@ -1,0 +1,376 @@
+{
+  "data": [
+    {
+      "cityName": "千代田区",
+      "cityCode": "13101",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "中央区",
+      "cityCode": "13102",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "港区",
+      "cityCode": "13103",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "新宿区",
+      "cityCode": "13104",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "文京区",
+      "cityCode": "13105",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "台東区",
+      "cityCode": "13106",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "墨田区",
+      "cityCode": "13107",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "江東区",
+      "cityCode": "13108",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "品川区",
+      "cityCode": "13109",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "目黒区",
+      "cityCode": "13110",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "大田区",
+      "cityCode": "13111",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "世田谷区",
+      "cityCode": "13112",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "渋谷区",
+      "cityCode": "13113",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "中野区",
+      "cityCode": "13114",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "杉並区",
+      "cityCode": "13115",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "豊島区",
+      "cityCode": "13116",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "北区",
+      "cityCode": "13117",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "荒川区",
+      "cityCode": "13118",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "板橋区",
+      "cityCode": "13119",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "練馬区",
+      "cityCode": "13120",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "足立区",
+      "cityCode": "13121",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "葛飾区",
+      "cityCode": "13122",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "江戸川区",
+      "cityCode": "13123",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "八王子市",
+      "cityCode": "13201",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "立川市",
+      "cityCode": "13202",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "武蔵野市",
+      "cityCode": "13203",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "三鷹市",
+      "cityCode": "13204",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "青梅市",
+      "cityCode": "13205",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "府中市",
+      "cityCode": "13206",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "昭島市",
+      "cityCode": "13207",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "調布市",
+      "cityCode": "13208",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "町田市",
+      "cityCode": "13209",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "小金井市",
+      "cityCode": "13210",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "小平市",
+      "cityCode": "13211",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "日野市",
+      "cityCode": "13212",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "東村山市",
+      "cityCode": "13213",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "国分寺市",
+      "cityCode": "13214",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "国立市",
+      "cityCode": "13215",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "福生市",
+      "cityCode": "13218",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "狛江市",
+      "cityCode": "13219",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "東大和市",
+      "cityCode": "13220",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "清瀬市",
+      "cityCode": "13221",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "東久留米市",
+      "cityCode": "13222",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "武蔵村山市",
+      "cityCode": "13223",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "多摩市",
+      "cityCode": "13224",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "稲城市",
+      "cityCode": "13225",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "羽村市",
+      "cityCode": "13227",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "あきる野市",
+      "cityCode": "13228",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "西東京市",
+      "cityCode": "13229",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "瑞穂町",
+      "cityCode": "13303",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "日の出町",
+      "cityCode": "13305",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "檜原村",
+      "cityCode": "13307",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "奥多摩町",
+      "cityCode": "13308",
+      "districtCode": "4410",
+      "invalid": true
+    },
+    {
+      "cityName": "大島町",
+      "cityCode": "13361",
+      "districtCode": "4420",
+      "invalid": true
+    },
+    {
+      "cityName": "利島村",
+      "cityCode": "13362",
+      "districtCode": "4420",
+      "invalid": true
+    },
+    {
+      "cityName": "新島村",
+      "cityCode": "13363",
+      "districtCode": "4420",
+      "invalid": true
+    },
+    {
+      "cityName": "神津島村",
+      "cityCode": "13364",
+      "districtCode": "4420",
+      "invalid": true
+    },
+    {
+      "cityName": "三宅村",
+      "cityCode": "13381",
+      "districtCode": "4430",
+      "invalid": true
+    },
+    {
+      "cityName": "御蔵島村",
+      "cityCode": "13382",
+      "districtCode": "4430",
+      "invalid": true
+    },
+    {
+      "cityName": "八丈町",
+      "cityCode": "13401",
+      "districtCode": "4430",
+      "invalid": true
+    },
+    {
+      "cityName": "青ヶ島村",
+      "cityCode": "13402",
+      "districtCode": "4430",
+      "invalid": true
+    },
+    {
+      "cityName": "小笠原村",
+      "cityCode": "13421",
+      "districtCode": "4440",
+      "invalid": true
+    }
+  ]
+}

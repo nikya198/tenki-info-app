@@ -1,0 +1,14 @@
+{
+  "data": [
+    { "regionName": "北海道地方", "regionCode": "1", "invalid": false },
+    { "regionName": "東北地方", "regionCode": "2", "invalid": false },
+    { "regionName": "関東・甲信地方", "regionCode": "3", "invalid": true },
+    { "regionName": "北陸地方", "regionCode": "4", "invalid": false },
+    { "regionName": "東海地方", "regionCode": "5", "invalid": false },
+    { "regionName": "近畿地方", "regionCode": "6", "invalid": false },
+    { "regionName": "中国地方", "regionCode": "7", "invalid": false },
+    { "regionName": "四国地方", "regionCode": "8", "invalid": false },
+    { "regionName": "九州地方", "regionCode": "9", "invalid": false },
+    { "regionName": "沖縄地方", "regionCode": "10", "invalid": false }
+  ]
+}

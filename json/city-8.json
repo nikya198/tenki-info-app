@@ -1,0 +1,311 @@
+{
+  "data": [
+    {
+      "prefCode": 8,
+      "cityCode": "08201",
+      "cityName": "水戸市",
+      "districtCode": "4010",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08202",
+      "cityName": "日立市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08203",
+      "cityName": "土浦市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08204",
+      "cityName": "古河市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08205",
+      "cityName": "石岡市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08207",
+      "cityName": "結城市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08208",
+      "cityName": "龍ケ崎市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08210",
+      "cityName": "下妻市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08211",
+      "cityName": "常総市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08212",
+      "cityName": "常陸太田市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08214",
+      "cityName": "高萩市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08215",
+      "cityName": "北茨城市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08216",
+      "cityName": "笠間市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08217",
+      "cityName": "取手市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08219",
+      "cityName": "牛久市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08220",
+      "cityName": "つくば市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08221",
+      "cityName": "ひたちなか市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08222",
+      "cityName": "鹿嶋市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08223",
+      "cityName": "潮来市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08224",
+      "cityName": "守谷市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08225",
+      "cityName": "常陸大宮市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08226",
+      "cityName": "那珂市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08227",
+      "cityName": "筑西市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08228",
+      "cityName": "坂東市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08229",
+      "cityName": "稲敷市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08230",
+      "cityName": "かすみがうら市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08231",
+      "cityName": "桜川市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08232",
+      "cityName": "神栖市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08233",
+      "cityName": "行方市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08234",
+      "cityName": "鉾田市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08235",
+      "cityName": "つくばみらい市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08236",
+      "cityName": "小美玉市",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08302",
+      "cityName": "茨城町",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08309",
+      "cityName": "大洗町",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08310",
+      "cityName": "城里町",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08341",
+      "cityName": "東海村",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08364",
+      "cityName": "大子町",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08442",
+      "cityName": "美浦村",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08443",
+      "cityName": "阿見町",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08447",
+      "cityName": "河内町",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08521",
+      "cityName": "八千代町",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08542",
+      "cityName": "五霞町",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08546",
+      "cityName": "境町",
+      "districtCode": "0",
+      "invalid": true
+    },
+    {
+      "prefCode": 8,
+      "cityCode": "08564",
+      "cityName": "利根町",
+      "districtCode": "0"
+    }
+  ]
+}
