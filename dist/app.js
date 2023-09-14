@@ -25,7 +25,7 @@ const scraiping_1 = __importDefault(require("./routes/scraiping"));
 //var app = express();
 const app = (0, express_1.default)();
 app.use((0, cors_1.default)({
-    origin: 'http://localhost:8080',
+    origin: 'https://nikya198.github.io',
     credentials: true,
     optionsSuccessStatus: 200, //レスポンスstatusを200に設定
 }));

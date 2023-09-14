@@ -1,10 +1,5 @@
 import createError from 'http-errors';
-import express, {
-  Request,
-  Response,
-  NextFunction,
-  RequestHandler,
-} from 'express';
+import express, { Request, Response, NextFunction, RequestHandler } from 'express';
 import path from 'path';
 import cookieParser from 'cookie-parser';
 import logger from 'morgan';
@@ -31,7 +26,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: 'http://localhost:8080', //アクセス許可するオリジン
+    origin: 'https://nikya198.github.io', //アクセス許可するオリジン
     credentials: true, //レスポンスヘッダーにAccess-Control-Allow-Credentials追加
     optionsSuccessStatus: 200, //レスポンスstatusを200に設定
   })
@@ -62,16 +57,14 @@ interface ErrorWithStatus extends Error {
 }
 
 // error handler
-app.use(
-  (err: ErrorWithStatus, req: Request, res: Response, next: NextFunction) => {
-    // set locals, only providing error in development
-    res.locals.message = err.message;
-    res.locals.error = req.app.get('env') === 'development' ? err : {};
+app.use((err: ErrorWithStatus, req: Request, res: Response, next: NextFunction) => {
+  // set locals, only providing error in development
+  res.locals.message = err.message;
+  res.locals.error = req.app.get('env') === 'development' ? err : {};
 
-    // render the error page
-    res.status(err.status || 500);
-    res.render('error');
-  }
-);
+  // render the error page
+  res.status(err.status || 500);
+  res.render('error');
+});
 
 export default app;
