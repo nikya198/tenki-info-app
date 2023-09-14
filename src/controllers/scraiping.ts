@@ -1,6 +1,7 @@
 import { RequestHandler } from 'express';
 import cheerio from 'cheerio';
 import iconv from 'iconv-lite';
+import fetch from 'node-fetch';
 
 const siteDatas: {
   siteNm: string;

@@ -15,6 +15,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.getScraipingData = void 0;
 const cheerio_1 = __importDefault(require("cheerio"));
 const iconv_lite_1 = __importDefault(require("iconv-lite"));
+const node_fetch_1 = __importDefault(require("node-fetch"));
 const siteDatas = [
     {
         siteNm: 'yahoo',
@@ -88,7 +89,7 @@ const getScraipingData = (req, res, _next) => __awaiter(void 0, void 0, void 0, 
             console.log(siteData.siteNm);
             const siteUrl = siteData.getUrl(reginCd, prefCd, districtCd, cityCd);
             console.log(siteUrl);
-            const response = yield fetch(siteUrl);
+            const response = yield (0, node_fetch_1.default)(siteUrl);
             const buffer = yield response.arrayBuffer(); // レスポンスのデータを ArrayBuffer として取得
             // エンコーディングでデータを文字列に変換
             const body = iconv_lite_1.default.decode(Buffer.from(buffer), siteData.encoding);
