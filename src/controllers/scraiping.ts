@@ -99,10 +99,10 @@ export const getScraipingData: RequestHandler<{
 
   for (const siteData of siteDatas) {
     try {
-      console.log(siteData.siteNm);
+      //console.log(siteData.siteNm);
 
       const siteUrl = siteData.getUrl(reginCd, prefCd, districtCd, cityCd);
-      console.log(siteUrl);
+      //console.log(siteUrl);
       const response = await fetch(siteUrl);
       const buffer = await response.arrayBuffer(); // レスポンスのデータを ArrayBuffer として取得
 
@@ -125,7 +125,7 @@ export const getScraipingData: RequestHandler<{
           }
 
           let tenkiValue = 0;
-          console.log(altValue);
+          //console.log(altValue);
 
           if (altValue === '晴れ') {
             tenkiValue = 1;
@@ -173,8 +173,8 @@ export const getScraipingData: RequestHandler<{
         });
       }
 
-      console.log(todayTenkiInfo);
-      console.log(tomorrowTenkiInfo);
+      //console.log(todayTenkiInfo);
+      //console.log(tomorrowTenkiInfo);
     } catch (e) {
       console.error(e);
     }
@@ -214,5 +214,5 @@ export const getScraipingData: RequestHandler<{
 
   averageTenkiInfo = { today: tmptoday, tomorrow: tmptomorrow };
   res.json(averageTenkiInfo);
-  console.log('Average TenkiValues:', averageTenkiInfo);
+  //console.log('Average TenkiValues:', averageTenkiInfo);
 };

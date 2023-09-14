@@ -86,9 +86,9 @@ const getScraipingData = (req, res, _next) => __awaiter(void 0, void 0, void 0, 
     //const averageTenkiInfo: [] = [];
     for (const siteData of siteDatas) {
         try {
-            console.log(siteData.siteNm);
+            //console.log(siteData.siteNm);
             const siteUrl = siteData.getUrl(reginCd, prefCd, districtCd, cityCd);
-            console.log(siteUrl);
+            //console.log(siteUrl);
             const response = yield (0, node_fetch_1.default)(siteUrl);
             const buffer = yield response.arrayBuffer(); // レスポンスのデータを ArrayBuffer として取得
             // エンコーディングでデータを文字列に変換
@@ -109,7 +109,7 @@ const getScraipingData = (req, res, _next) => __awaiter(void 0, void 0, void 0, 
                         altValue = $(elem).text();
                     }
                     let tenkiValue = 0;
-                    console.log(altValue);
+                    //console.log(altValue);
                     if (altValue === '晴れ') {
                         tenkiValue = 1;
                     }
@@ -157,8 +157,8 @@ const getScraipingData = (req, res, _next) => __awaiter(void 0, void 0, void 0, 
                     //titles_arr.push(altValue);
                 });
             }
-            console.log(todayTenkiInfo);
-            console.log(tomorrowTenkiInfo);
+            //console.log(todayTenkiInfo);
+            //console.log(tomorrowTenkiInfo);
         }
         catch (e) {
             console.error(e);
@@ -189,6 +189,6 @@ const getScraipingData = (req, res, _next) => __awaiter(void 0, void 0, void 0, 
     //averageTenkiInfo.push({ today: tmptoday, tomorrow: tmptomorrow });
     averageTenkiInfo = { today: tmptoday, tomorrow: tmptomorrow };
     res.json(averageTenkiInfo);
-    console.log('Average TenkiValues:', averageTenkiInfo);
+    //console.log('Average TenkiValues:', averageTenkiInfo);
 });
 exports.getScraipingData = getScraipingData;
