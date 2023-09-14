@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tenki-info-app/static/css/main.c908b480.css",
-    "main.js": "/tenki-info-app/static/js/main.9836dda5.js",
+    "main.js": "/tenki-info-app/static/js/main.7877232d.js",
     "index.html": "/tenki-info-app/index.html",
     "main.c908b480.css.map": "/tenki-info-app/static/css/main.c908b480.css.map",
-    "main.9836dda5.js.map": "/tenki-info-app/static/js/main.9836dda5.js.map"
+    "main.7877232d.js.map": "/tenki-info-app/static/js/main.7877232d.js.map"
   },
   "entrypoints": [
     "static/css/main.c908b480.css",
-    "static/js/main.9836dda5.js"
+    "static/js/main.7877232d.js"
   ]
 }
